@@ -24,6 +24,10 @@ startActivity(intent);
 
 可以，请直接前往下载：
 
-https://fir.im/opbcjp
+https://github.com/kongzue/OnePlusOxygenBusCardJumper/raw/master/release/%E6%89%93%E5%BC%80%E5%85%AC%E4%BA%A4%E5%8D%A1.apk
+
+一加公交卡的APP由于官方未提供外部下载地址，我这里放上一个备份，但更建议使用一加系统自带的应用商店下载最新版本！
+
+https://github.com/kongzue/OnePlusOxygenBusCardJumper/raw/master/release/cn.oneplus.wallet_2.4.0.190927222831.21baa08.apk
 
 本工具不需要任何权限，不会造成任何破坏，请放心使用。
