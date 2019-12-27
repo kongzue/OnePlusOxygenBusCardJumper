@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">打开公交卡</string>
+    <string name="all_card">所有卡片</string>
+    <string name="bus_card">公交卡</string>
+    <string name="door_card">门禁卡</string>
 </resources>

@@ -31,3 +31,6 @@ startActivity(intent);
 [下载“一加公交卡2.4.0”](https://github.com/kongzue/OnePlusOxygenBusCardJumper/raw/master/release/cn.oneplus.wallet_2.4.0.190927222831.21baa08.apk)
 
 本工具不需要任何权限，不会造成任何破坏，请放心使用。
+
+## 版本更新
+v1.1 加入桌面长按 Shortcuts 菜单，可跳转至“门禁卡”和“所有卡片”界面。

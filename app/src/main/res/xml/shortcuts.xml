@@ -1,0 +1,44 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="allCard"
+        android:enabled="true"
+        android:icon="@mipmap/img_card_all"
+        android:shortcutShortLabel="@string/all_card"
+        android:shortcutLongLabel="@string/all_card"
+        android:shortcutDisabledMessage="@string/all_card">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.kongzue.jumpopbuscard"
+            android:targetClass="com.kongzue.jumpopbuscard.AllCardActivity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="busCard"
+        android:enabled="true"
+        android:icon="@mipmap/img_card_bus"
+        android:shortcutShortLabel="@string/bus_card"
+        android:shortcutLongLabel="@string/bus_card"
+        android:shortcutDisabledMessage="@string/bus_card">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.kongzue.jumpopbuscard"
+            android:targetClass="com.kongzue.jumpopbuscard.MainActivity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="doorCard"
+        android:enabled="true"
+        android:icon="@mipmap/img_card_door"
+        android:shortcutShortLabel="@string/door_card"
+        android:shortcutLongLabel="@string/door_card"
+        android:shortcutDisabledMessage="@string/door_card">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.kongzue.jumpopbuscard"
+            android:targetClass="com.kongzue.jumpopbuscard.DoorCardActivity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+</shortcuts>
